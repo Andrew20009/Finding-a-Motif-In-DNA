@@ -40,7 +40,7 @@ Thumbs.db
 
 # Rosalind txt files
 *.txt
-!rosalind_dna.txt     # ←Keeping only sample dataset
+!rosalind_subs.txt     # ←Keeping only sample dataset
 
 # Extra
 *.log
